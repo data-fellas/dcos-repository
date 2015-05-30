@@ -1,0 +1,24 @@
+{
+  "packages":[
+    {
+      "currentVersion":"0.1.0",
+      "description":"Spark Notebook package for DCOS",
+      "framework":false,
+      "name":"spark-notebook",
+      "tags":[
+        "spark",
+        "notebook",
+        "data-fellas",
+        "spark-notebook",
+        "interactive",
+        "big-data",
+        "bigdata",
+        "apachespark"
+      ],
+      "versions":{
+        "0.1.0":"0"
+      }
+    }
+  ],
+  "version":"0.1.0"
+}
